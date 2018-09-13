@@ -1,0 +1,5 @@
+D:\TempPractice\VB.net\ElaColorChooserDemo\ElaColorChooserLib\obj\Debug\ElaColorChooserLib.vbprojResolveAssemblyReference.cache
+D:\TempPractice\VB.net\ElaColorChooserDemo\ElaColorChooserLib\obj\Debug\ElaColorChooserLib.ColorPicker.resources
+D:\TempPractice\VB.net\ElaColorChooserDemo\ElaColorChooserLib\obj\Debug\ElaColorChooserLib.Resources.resources
+D:\TempPractice\VB.net\ElaColorChooserDemo\ElaColorChooserLib\obj\Debug\ElaColorChooserLib.vbproj.GenerateResource.Cache
+D:\TempPractice\VB.net\ElaColorChooserDemo\ElaColorChooserLib\obj\Debug\ElaColorChooserLib.vbproj.CoreCompileInputs.cache

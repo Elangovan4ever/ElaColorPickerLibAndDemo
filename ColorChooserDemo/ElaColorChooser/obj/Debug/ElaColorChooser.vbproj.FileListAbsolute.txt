@@ -1,0 +1,11 @@
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\bin\Debug\ElaColorChooser.dll
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\bin\Debug\ElaColorChooser.pdb
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\bin\Debug\ElaColorChooser.xml
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.ColorPicker.resources
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.ComboBoxDisplay.resources
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.Resources.resources
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.vbproj.GenerateResource.Cache
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.vbproj.CoreCompileInputs.cache
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.dll
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.xml
+D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.pdb
