@@ -9,3 +9,14 @@ D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\
 D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.dll
 D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.xml
 D:\TempPractice\VB.net\ElaColorChooserDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.pdb
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\bin\Debug\ElaColorChooser.dll
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\bin\Debug\ElaColorChooser.pdb
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\bin\Debug\ElaColorChooser.xml
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.ColorPicker.resources
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.ComboBoxDisplay.resources
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.Resources.resources
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.vbproj.GenerateResource.Cache
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.vbproj.CoreCompileInputs.cache
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.dll
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.xml
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\Debug\ElaColorChooser.pdb
