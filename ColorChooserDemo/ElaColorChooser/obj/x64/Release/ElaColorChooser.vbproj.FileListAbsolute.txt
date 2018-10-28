@@ -1,0 +1,11 @@
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\bin\x64\Release\ElaColorChooser.dll
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\bin\x64\Release\ElaColorChooser.pdb
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\bin\x64\Release\ElaColorChooser.xml
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.ColorPicker.resources
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.ComboBoxDisplay.resources
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.Resources.resources
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.vbproj.GenerateResource.Cache
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.vbproj.CoreCompileInputs.cache
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.dll
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.xml
+D:\GitRepository\ElaColorPickerLibAndDemo\ColorChooserDemo\ElaColorChooser\obj\x64\Release\ElaColorChooser.pdb
